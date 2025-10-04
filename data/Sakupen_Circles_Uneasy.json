@@ -1,0 +1,15 @@
+{
+    "id": 123341407,
+    "name": "Sakupen Circles Uneasy",
+    "author": "SandwichMcN",
+    "creators": [],
+    "verifier": "SandwichMcN",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Patryxx",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
