@@ -4,10 +4,12 @@
     "author": "SandwichMcN",
     "creators": [],
     "verifier": "SandwichMcN",
+    "verification": "https://youtu.be/9Amb5gQtQdI",
     "percentToQualify": 100,
     "records": [
         {
             "user": "Patryxx",
+            "verification": "https://youtu.be/9Amb5gQtQdI",
             "percent": 100,
             "hz": 60
         }
