@@ -7,9 +7,11 @@
     "verification": "https://youtu.be/AvlrJfhOZ_4",
     "percentToQualify": "100",
     "records": [
-            "user": "Patryxx",
-            "link": "https://youtu.be/IhamXA2yvfM",
+        {
+            "user": "SandwickMcN",
+            "link": "",
             "percent": 100,
             "hz": 60
+        }
     ]
 }
