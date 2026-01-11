@@ -109,10 +109,10 @@ export default {
                         Level needed to be copied from an easy version of it and be buffed from the easy version.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this, but if can't, Send screenshot of the attemps and the level page that says 100% 
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the player hit the endwall, but if can't, Send screenshot of the attemps and the level page that says 100% 
                     </p>
                     <p>
                         Level must easier than the original level but harder than the easy version of it.
