@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=gRbi4AVM71k",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Ybm54",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
