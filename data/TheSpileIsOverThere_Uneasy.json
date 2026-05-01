@@ -1,1 +1,17 @@
-
+{
+    "id":  139321408,
+    "name": "TheSpikeIsOverThereUneasy",
+    "author": "Ybm54",
+    "creators": [],
+    "verifier": "Ybm54",
+    "verification": "https://youtu.be/OBw_CeZPnnc?si=V6FEDkvRvB-qNTpZ",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Patryxx",
+            "link": "https://www.youtube.com/watch?v=gwKHIPjCCjE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
