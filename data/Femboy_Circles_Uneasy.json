@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "attempts": "470",
     "records": [
+        {
+            "user": "Ybm54",
+            "link": "https://youtu.be/5MBbmQWJos0?si=Kk0lgRHia_34CpNj",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
