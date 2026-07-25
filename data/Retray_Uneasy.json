@@ -18,6 +18,12 @@
             "link": "iii",
             "percent": 100,
             "hz": 90
+        },
+        {
+            "user": "Fuzed",
+            "link": "https://youtu.be/DPufqy1-KlU",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
